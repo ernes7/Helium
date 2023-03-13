@@ -10,7 +10,7 @@ It is designed to be run from the command line, with the folder name as an argum
 - sys module
 
 ### Usage
-```python helium.py [folder name]```
+```python helium.py data/[folder name]```
 
 ### Functionality
 - Reads and processes CSV files in the specified folder.
