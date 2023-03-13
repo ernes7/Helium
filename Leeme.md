@@ -11,6 +11,10 @@ nombre de la carpeta como argumento.
 - Módulo sys
 
 ### Uso
+1. Copias keyword de BlackBox a Amazon
+2. Abres X-rays e incrementas los resultados ( Boton Mas Resultados )
+3. Descargas CSV y reemplazas el nombre del CSV con el nombre de la palabra clave
+4. Coloca CSV dentro de la carpeta data
 ```python helium.py data/[folder name]```
 
 ### Funcionalidad
